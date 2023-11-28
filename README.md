@@ -11,7 +11,7 @@ Avenida Paulista, 271
 
 ## Perfil Profissional
 
-> "Programador, cursando desenovlvimento de sistemas, com a ambição de entrar no mercado de trabalho na área, enquanto desenvolvo códigos de programação que quero expor para gestão da empresa ao longo do período.
+> "Programador, cursando desenovlvimento de sistemas, com a ambição de entrar no mercado de trabalho enquanto desenvolvo códigos de programação que quero expor para gestão da empresa ao longo do período.
 
 ### Objetivo: Dev Front-End
 

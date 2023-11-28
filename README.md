@@ -1,5 +1,5 @@
 # Gabriel Vinicius Rodrigues De Sousa
-![foto](R.png)
+![foto](minha.jpg)
 ## Contato
 ### Endereço:
 Avenida Paulista, 271
